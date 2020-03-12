@@ -1,0 +1,52 @@
+Schedule:
+
+1.  CSK vs KKR	:	6 April
+2.  RR vs KXIP	:	7 April
+3.  DC vs MI 	:	8 April
+4.  KKR vs RR	: 	9 April
+5.  MI vs SRH 	:	10 April
+6.  CSK vs DC	:	11 April
+7.  KXIP vs RCB	:	12 April
+8.  KKR vs KXIP	:	13 April
+9.  CSK vs DC	:	14 April
+10. RCB vs MI	:	15 April
+11. KXIP vs SRH	:	16 April
+12. CSK vs KKR	:	17 April
+13. RR vs KXI	:	18 April
+14. CSK vs SRH	:	19 April
+15. KKR vs MI	:	20 April
+16. KXIP vs DC	:	21 April
+17. DC vs RCB	: 	22 April
+18. RR vs CSK	:	23 April
+19. MI vs RCB	: 	24 April
+20. CSK vs DC	:	25 April
+21. MI vs RR	:	26 April
+22. KXIP vs SRH	:	27 April
+23. RCB vs KKR 	:	28 April
+24. CSK vs DC 	:	29 April
+25. MI vs KXIP	:	30 April
+26. RR vs SRH 	:	1 May
+27. RCB vs MI	:	2 May
+28. DC vs MI 	:	3 May
+29. CSK vs KKR 	:	4 May
+30. KXIP vs MI	:	5 May
+31. CSK vs KKR	:	6 May
+32. RR vs KXIP	:	7 May
+33. DC vs MI 	:	8 May
+34. KKR vs RR	: 	9 May
+35. MI vs SRH 	:	10 May
+36. CSK vs DC	:	11 May
+37. KXIP vs RCB	:	12 May
+38. KKR vs KXIP	:	13 May
+39. CSK vs DC	:	14 May
+40. RCB vs MI	:	15 May
+41. KXIP vs SRH	:	16 May
+42. CSK vs KKR	:	17 May
+43. RR vs KXI	:	18 May
+44. CSK vs SRH	:	19 May
+
+45. Quarter Final 1  :	21 May
+46. Quarter Final 2  :	21 May
+47. Eliminator	:	23 May
+48. Semifinal	:	25 May
+49. Final	:	27 May

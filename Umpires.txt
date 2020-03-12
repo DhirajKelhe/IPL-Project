@@ -1,0 +1,57 @@
+
+    Umpires			Nationality	
+
+Rod Tucker			Australia	
+Billy Bowden			New Zealand
+Aleem Dar				Pakistan	
+Bruce Oxenford			Australia	
+Nitin Menon			India
+Sudhir Asnani			India
+Shavir Tarapore			India
+Nigel Llong			England
+Russell Tiffin			Zimbabwe	
+Chris Gaffaney			New Zealand
+Daryl Harper			Australia	
+Amiesh Saheba			India	
+Krishna Hariharan			India
+Nand Kishore			India		
+Richard Illingworth			England	
+K. N. Ananthapadmanabhan		India
+Brian Jerling			South Africa
+Johan Cloete			South Africa
+Anil Dandekar			India		
+Sanjay Hazare			India		
+Virender Sharma			India		
+Subrat Das			India	
+Krishnaraj Srinath			India	
+Ian Howell			South Africa	
+Suresh Shastri			India		
+Mark Benson			England		
+Abhijit Deshmukh			India		
+Paul Reiffel			Australia	
+Yeshwant Barde			India		
+Rajesh Deshpande			India	
+Pashchim Pathak			India		
+Gary Baxter			New Zealand	
+Steve Davis			Australia	
+Arani Jayaprakash			India		
+Simon Fry				Australia	
+Tony Hill				New Zealand	
+Sundaram Ravi			India		
+Kumar Dharmasena			Sri Lanka 	
+Anil Chaudhary			India		
+Chettithody Shamshuddin		India		
+Marais Erasmus			South Africa
+Simon Taufel			Australia	
+Asad Rauf				Pakistan
+C. K. Nandan			India		
+Billy Doctrove	 		West Indies	
+Vineet Kulkarni			India		
+Rudi Koertzen			South Africa	
+G. A. Pratapkumar			India		
+Ivaturi Shivram			India		
+Tyron Wijewardene			Sri Lanka	
+Krishnamachari Bharatan		India		
+Krishnamachari Srinivasan		India		
+Shashank Ranade			India		
+Subroto Das			India	

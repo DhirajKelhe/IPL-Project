@@ -1,0 +1,16 @@
+	
+Kolkata		:	Eden Gardens,			Capacity:	96,000.
+			
+Bangalore		:     	M. Chinnaswamy Stadium,		Capacity:	75,000.
+
+Delhi		:	Feroz Shah Kotla,			Capacity:	45,000.
+
+Hyderabad	:	Rajiv Gandhi Int. Stadium,		Capacity:	50,000.
+
+Jaipur		:	Sawai Mansingh Stadium,		Capacity:	25,000.
+
+Mumbai		:	Wankhede Stadium,			Capacity:	33,000.
+
+Mohali		:	Punjab Cricket Ass. Stadium,		Capacity:	37,590.
+	
+Chennai		:	M. A. Chidambaram Stadium,		Capacity:	45,000.

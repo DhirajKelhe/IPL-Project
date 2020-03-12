@@ -1,0 +1,17 @@
+
+1.	Steven Smith
+2.	Ben Stokes
+3.	Jos Buttler
+4.	Jofra Archer
+5.	Ish Sodhi
+6.	Ajinkya Rahane (C)
+7.	K Gowtham
+8.	Sanju Samson (Wk)
+9.	Shreyas Gopal
+10.	Aryaman Birla
+11.	S Midhun
+12.	Prashant Chopra
+13.	Stuart Binny
+14.	Rahul Tripathi
+15.	Dhawal Kulkarni
+16.	Mahipal Lomror
